@@ -1,6 +1,7 @@
 [
   {
     "question" : "What insects can chew through wood and destroy your home?",
+    "answer" : 0,
     "a1" : "Termites",
     "a2" : "Ants",
     "a3" : "Dung Beetle",
@@ -8,6 +9,7 @@
   },
   {
     "question" : "What is the only type of cheese that is actually made backwards?",
+    "answer" : 0,
     "a1" : "Edam",
     "a2" : "Cheddar",
     "a3" : "Gouda",
@@ -15,6 +17,7 @@
   },
   {
     "question" : "Prunes were once what kind of fruit?",
+    "answer" : 2,
     "a1" : "Grapes",
     "a2" : "Peaches",
     "a3" : "Plums",
@@ -22,13 +25,15 @@
   },
   {
     "question" : "How long is a fortnight?",
+    "answer" : 0,
     "a1" : "2 weeks",
     "a2" : "30 days",
     "a3" : "1 week",
     "a4" : "10 days"
   },
   {
-    "question" : "What tool does you use to change a car tire?",
+    "question" : "What is a tool you use to change a car tire?",
+    "ansawer" : 1,
     "a1" : "Power drill",
     "a2" : "Jack",
     "a3" : "Hammer",
@@ -36,6 +41,7 @@
   },
   {
     "question" : "What does CPR stand for?",
+    "answer" : 1,
     "a1" : "Cardiovascular resolution",
     "a2" : "Cardiopulmonary resuscitation",
     "a3" : "Chest, press, revive",
@@ -43,6 +49,7 @@
   },
   {
     "question" : "What exactly is the Heimlich Maneuver?",
+    "answer" : 3,
     "a1" : "Gymnastics move",
     "a2" : "Skateboard trick",
     "a3" : "Airplane emergency move",
@@ -50,6 +57,7 @@
   },
   {
     "question" : "Which great invention allows people to look through walls?",
+    "answer" : 0,
     "a1" : "Glass",
     "a2" : "Overt-radiation eyewear",
     "a3" : "Polykentraline sheets",
@@ -57,6 +65,7 @@
   },
   {
     "question" : "Which of these words doesn't rhyme with anything else?",
+    "answer" : 3,
     "a1" : "China",
     "a2" : "Table",
     "a3" : "Orange",
@@ -64,6 +73,7 @@
   },
   {
     "question" : "What does a barometer measure?",
+    "answer" : 1,
     "a1" : "Speed",
     "a2" : "Atmospheric Pressure",
     "a3" : "Miles driven",
@@ -71,6 +81,7 @@
   },
   {
     "question" : "Which of these is used to start a fire?",
+    "answer" : 2,
     "a1" : "Aluminum",
     "a2" : "Glycogen",
     "a3" : "Flint",
@@ -78,6 +89,7 @@
   },
   {
     "question" : "Which of these can help you purify water?",
+    "answer" : 0,
     "a1" : "Boiling it",
     "a2" : "Steel shavings",
     "a3" : "Toothpaste",
