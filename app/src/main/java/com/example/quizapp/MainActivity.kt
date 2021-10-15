@@ -22,8 +22,8 @@ class MainActivity : AppCompatActivity() {
         wireWidgets()
 
         val inputStream = resources.openRawResource(R.raw.questions)
-        var jsonText = inputStream.bufferedReader().use
-        }
+
+    }
     }
 
     fun wireWidgets() {
