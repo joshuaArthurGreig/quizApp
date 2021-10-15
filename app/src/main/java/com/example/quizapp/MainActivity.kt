@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         wireWidgets()
 
         val inputStream = resources.openRawResource(R.raw.questions)
-
+        val jsonText = inputStream.bufferedReader(
     }
     }
 
